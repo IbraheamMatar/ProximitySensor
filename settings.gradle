@@ -1,0 +1,2 @@
+rootProject.name='ProximitySensor'
+include ':app'
